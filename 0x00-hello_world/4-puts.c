@@ -1,2 +1,12 @@
 #!/bin/bash
-#include <stdio.h>\n/**\n* main - Entry point\n*\n* Return: always 0\n*/\nint main(void)\n{\nputs("\"Programming is like building a multilingual puzzle");\nreturn (0);\n}
+#include <stdio.h>
+/**
+ * main - Entry point
+ *
+ * Return: always 0
+ */
+int main(void)
+{
+puts("\"Programming is like building a multilingual puzzle");
+return (0);
+}
