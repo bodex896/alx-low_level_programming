@@ -1,1 +1,1 @@
-program to assign.
+program that assign.
