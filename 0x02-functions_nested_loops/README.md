@@ -1,1 +1,1 @@
-digit.
+minutes.
