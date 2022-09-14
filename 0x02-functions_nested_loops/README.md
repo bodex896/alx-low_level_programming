@@ -1,1 +1,1 @@
-prints the alphabet, in lowercase, followed by a new line.
+program that prints _putchar.
