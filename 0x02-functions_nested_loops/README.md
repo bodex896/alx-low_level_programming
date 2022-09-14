@@ -1,1 +1,1 @@
-9 times table.
+10. a + b.
