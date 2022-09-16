@@ -1,1 +1,1 @@
-6. The shortest distance between two points is a straight line
+7. I feel like I am diagonally parked in a parallel universe
