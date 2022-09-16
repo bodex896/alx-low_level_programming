@@ -1,1 +1,1 @@
-4. I believe in numbers and signs
+5. Numbers constitute the only universal language
