@@ -1,1 +1,1 @@
-5. A good engineer thinks in reverse and asks himself about the stylistic consequences of the components and systems he proposes
+6. Half the lies they tell about me arent true
