@@ -1,1 +1,1 @@
-11. It is the addition of strangeness to beauty that constitutes the romantic character in art
+12. Noise is a buffer, more effective than cubicles or booth walls
