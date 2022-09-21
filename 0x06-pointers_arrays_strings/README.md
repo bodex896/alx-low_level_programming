@@ -1,1 +1,1 @@
-1. strncat
+2. strncpy
