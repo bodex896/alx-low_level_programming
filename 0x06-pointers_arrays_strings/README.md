@@ -1,1 +1,1 @@
-10. A dream doesnt become reality through magic; it takes sweat, determination and hard work
+12. Noise is a buffer, more effective than cubicles or booth walls
