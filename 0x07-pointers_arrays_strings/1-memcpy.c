@@ -1,23 +1,22 @@
 #include "main.h"
 
 /**
- * _memset - a function that fills memory with a constant byte
- * @s: a char pointer given by main
- * @b: a constant byte
- * @n: how many byte of memory
- * Return: pointer to the memory s
+ * _memcpy - like memset but a function that copies memory area
+ * @dest: destination for our memory
+ * @src: source to copy from
+ * @n: number of characters to copy
+ * Return: pointer back to dest
  */
 
-char *_memset(char *s, char b, unsigned int n)
+char *_memcpy(char *dest, char *src, unsigned int n)
 {
-	int night = 0; /*Night is my variable and was assigned 0*/
+	int night = 0; /*same code as memset*/
 
-	while (n > 0) /*as long as n is less than zero*/
+	while (n > 0)
 	{
-		s[night] = b; /*Night is assigned to our char*/
-
-		night++; /*post-increment, value first incremented afterwards*/
-		n--; /*post-decrement*/
+		dest[night] = src[night];
+		night++;
+		n--;
 	}
-	return (s); /*returning pointer to the memory of s*/
+	return (dest);
 }
