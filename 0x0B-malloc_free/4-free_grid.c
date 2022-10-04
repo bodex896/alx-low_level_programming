@@ -11,15 +11,15 @@
 
 void free_grid(int **grid, int height)
 {
-	int Bodex ;
+	int bodex;
 	/* if grid is not equal to null and height is also not equal to 0*/
 	if (grid != NULL || height != 0)
 	{
-		/*for every Bodex  that is 0 and less than height increase height*/
-		for (Bodex  = 0; Bodex  < height; Bodex ++)
+		/*for every bodex that is 0 and less than height increase height*/
+		for (bodex = 0; bodex < height; bodex++)
 		{
-			/*free grid[Bodex ]*/
-			free(grid[Bodex ]);
+			/*free grid[bodex]*/
+			free(grid[bodex]);
 		}
 		/*free grid*/
 		free(grid);
