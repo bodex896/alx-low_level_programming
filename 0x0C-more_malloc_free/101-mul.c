@@ -1,4 +1,4 @@
-#include "101-mul.c"
+#include "main.h"
 
 /**
  * main - multiplies two positive numbers
