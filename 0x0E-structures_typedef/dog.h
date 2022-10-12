@@ -1,4 +1,4 @@
-fndef _HEADER_
+#ifndef _HEADER_
 #define _HEADER_
 
 /**
@@ -7,7 +7,7 @@ fndef _HEADER_
  *    * @age: The age of the dog.
  *     * @owner: The owner of the dog.
  *      *
- *       * Description: The attributes of a dog
+ *       * Description: The attributes of a dog.
  */
 struct dog
 {
