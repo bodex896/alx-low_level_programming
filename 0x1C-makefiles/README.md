@@ -1,1 +1,1 @@
-main.c
+school.c
